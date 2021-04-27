@@ -1,0 +1,39 @@
+{
+  "name": "Music King",
+  "description": "Bot Sumber Terbuka untuk memutar lagu di Obrolan Suara Grup Telegram Anda. Didukung oleh PyTgCalls.",
+  "keywords": ["music", "voicechat", "telegram"],
+  "repository": "https://github.com/apisuserbot/Music-King",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "String Session bisa cari di telegram dengan username @StringSessionGeneratorRobot",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Cari bot token yang udah lu buat tadi di @BotFather",
+      "required": true
+    },
+    "BOT_NAME": {
+      "description": "Nama bot music lu.",
+      "required": false,
+      "value": ""
+    },
+    "API_ID": {
+      "description": "App ID cari di web my.telegram.org/apps",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "App hash cari di web my.telegram.org/apps",
+      "required": true
+    },
+    "SUDO_USERS": {
+      "description": "ID admin telegram lu (dengan spasi).",
+      "required": true
+    },
+    "DURATION_LIMIT": {
+      "description": "Max audio duration limit for downloads (minutes).",
+      "required": true,
+      "value": "10"
+    }
+  }
+}
