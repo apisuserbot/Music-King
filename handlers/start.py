@@ -39,8 +39,8 @@ async def start(_, message: Message):
                     ),
                     InlineKeyboardButton(
                         "𝙋𝙚𝙧𝙞𝙣𝙩𝙖𝙝", url="https://telegra.ph/𝖢𝖺𝗋𝖺-𝖯𝖺𝗄𝖺𝗂-04-24"
-                    ],
-                    [
+                
+                    ),
                     InlineKeyboardButton(
                         "🎁 𝘿𝙤𝙣𝙖𝙨𝙞 🎁", url="https://t.me/PacarFerdilla"
                     )
