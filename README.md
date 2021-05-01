@@ -5,7 +5,7 @@
 
 # Repo Music Yang Di Buat Oleh @PacarFerdilla
 
-![!Logo Music King](https://telegra.ph/file/c9126d171410b8836f3aa.jpg)
+![!Logo Music King](https://telegra.ph/file/d7d08e4478636ed54ad66.jpg)
 
 <h2> Fitur : </h2>
 
